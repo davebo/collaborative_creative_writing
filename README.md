@@ -6,7 +6,8 @@
 ## Style Guide
 ### Rules of engagement
 #### follow https://tools.ietf.org/html/rfc2119 for rule keywords
-### Every entry MUST have a *title*, content, and copyright
+### Every entry MUST have a **title**, author, content, and copyright
+#### Notice of copyright is shown with the symbol © or the word "Copyright" followed by the year of publication and copyright owner's name.
 ### Genres SHOULD be differentiated
 
 
